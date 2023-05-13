@@ -1,13 +1,13 @@
 # Organizational Roles & Levels in Software Development
 
 ## Roles
-**Software Engineer (SE)**: Responsible for coding, testing, deploying, and monitoring systems. They collaborate with the team to design and develop software components.
+**Software Engineer (SE)**: Responsible for coding, testing, operating, deploying, and monitoring systems, all with support from the Tech Lead. Collaborate with the team and Tech Lead to design individual components and high-level architecture.
 
-**Product Manager (PM)**: In charge of understanding customer needs, providing initial requirements, setting scope and milestones, devising A/B experiments, and making final decisions on user-visible behavior.
+**Product Manager (PM)**: Responsible for understanding customer needs, providing initial requirements, devising A/B experiments, making final decisions on user-visible behavior, setting scope and milestones in collaboration with the Engineering Manager, and providing KPIs for product success.
 
-**Tech Lead (TL)**: Their main tasks include mentoring and coaching on technical topics, designing high-level architecture (with support from the engineering team), and designing individual components.
+**Tech Lead (TL)**: In charge of mentoring and coaching on technical topics, designing high-level architecture with support from the engineering team, designing individual components in collaboration with the Engineering Team, making final decisions on the technical approach, and supporting the Engineering Team in coding, testing, and operating, deploying, and monitoring systems.
 
-**Tech Manager (TM)**: They oversee recruiting new team members, monitoring and ensuring team health, and managing team members' performance and growth.
+**Tech Manager (TM)**: Responsible for recruiting new team members, monitoring and ensuring team health, managing team members' performance and growth, and setting scope and milestones in collaboration with the Product Manager.
 
 **Squad Lead (SL)**: Responsible for overseeing and coordinating the work of a single squad or multiple squads, providing guidance and support to team leads and members, and ensuring alignment with organizational goals.
 
