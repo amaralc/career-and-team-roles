@@ -1,4 +1,5 @@
-# Software Engineer II, Microsoft Teams
+# [Software Engineer II, Microsoft Teams](https://careers.microsoft.com/professionals/us/en/job/1546455/Software-Engineer-II)
+
 ## Microsoft
 ### Job Location: Redmond, Washington, United States (Job available in 2 locations)
 
