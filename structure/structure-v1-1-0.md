@@ -20,11 +20,11 @@
 
 # Product Management Levels
 
-**Associate Product Manager (APM)**: An entry-level role with limited experience (up to 2 years). APMs assist in defining product requirements, analyzing market trends, and coordinating with development teams. They handle straightforward product-related problems with guidance. This is a technical role.
+**Associate Product Manager (APM)**: An entry-level role with limited experience (up to 2 years). APMs assist in defining product requirements, analyzing market trends, and coordinating with development teams. They handle straightforward product-related problems with guidance. This is an individual contributor role.
 
-**Product Manager (PM)**: With a certain level of proven experience (2-5 years), PMs handle ambiguous situations, define product scope and milestones, provide initial requirements, and make decisions on user-visible behavior. They also engage in customer and market research and coordinate with cross-functional teams. This is a technical role.
+**Product Manager (PM)**: With a certain level of proven experience (2-5 years), PMs handle ambiguous situations, define product scope and milestones, provide initial requirements, and make decisions on user-visible behavior. They also engage in customer and market research and coordinate with cross-functional teams. This is an individual contributor role.
 
-**Senior Product Manager (SPM)**: With an established professional track (5-8 years of experience), SPMs independently handle more complex and ambiguous product challenges. They lead strategic planning for their products, collaborate closely with engineering and design teams, and communicate effectively with stakeholders and executives. This is a technical role.
+**Senior Product Manager (SPM)**: With an established professional track (5-8 years of experience), SPMs independently handle more complex and ambiguous product challenges. They lead strategic planning for their products, collaborate closely with engineering and design teams, and communicate effectively with stakeholders and executives. This is an individual contributor role.
 
 **Group Product Manager (GPM)**: With extensive experience (8-12 years), GPMs lead a team of product managers, overseeing multiple product lines or a significant part of a major product. They navigate through ambiguity, drive strategic product decisions, and mentor junior members of the product management team. This is a mix of a technical and management role, where people management starts to be a significant part of the job.
 
@@ -34,13 +34,19 @@
 
 # Team Roles
 
-**Squad Lead (SL)**: Ensures team health, manages performance and growth, sets scope and milestones, and recruits new team members. Oversees work of squads, provides guidance, and helps clarify ambiguities to ensure alignment with organizational goals.
+**Squad Lead (SL)**: Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
 
-**Product Manager (PM)**: Understands customer needs, sets product scope and milestones, provides initial requirements, and makes final decisions on user-visible behavior. Leads in clarifying ambiguous product requirements, sets timelines, communicates status to stakeholders, and leads design reviews. This role as described here, combines Technical Program Manager with Product Manager common descriptions.
+**Tribe Lead (TL)**: Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
 
-**Technical Manager (TM)**: Responsible for recruiting new team members, monitoring and ensuring team health, managing team members' performance and growth, and setting scope and milestones in collaboration with the Product Manager.
+**Product Manager (PM)**: Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
 
-**Technical Lead (TL)**: Makes final decisions on technical approach, designs high-level architecture, and supports the engineering team in coding, testing, and system operations. Mentors and coaches team members and helps navigate through technical ambiguities.
+**Technical Manager (TM)**: Manages team health and performance, recruits new members, sets milestones in collaboration with PM, and monitors team health.
 
-**Software Engineer (SE)**: Responsible for coding, testing, deploying, and monitoring systems with support from Technical Lead. They collaborate with the team to design and develop software components.
+**Chapter Lead (CL)**: Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
+
+**Technical Lead (TL)**: Determines technical approach, designs architecture, supports engineering in system operations, mentors team, and clarifies technical ambiguities.
+
+**Guild Lead (GL)**: Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
+
+**Software Engineer (SE)**: Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
 
