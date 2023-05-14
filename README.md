@@ -50,97 +50,95 @@ L7 (M4) - **Vice President of Engineering (M4)**: With a prolific career (over 2
 ### Requirements
 
 **Junior Software Engineer (L1 - IC1):**
-- [ ] Assisted in coding, testing, and stabilizing systems under supervision.
-- [ ] Communicated effectively with immediate team members.
-- [ ] Solved straightforward problems with guidance.
-- [ ] Actively listened and demonstrated effective communication skills.
-- [ ] Asked questions to clarify requirements and instructions.
-- [ ] Engaged in team discussions and provided updates on progress.
-- [ ] Provided clear and concise written documentation.
-- [ ] Collaborated with team members to deliver software components.
+- [ ] (Collaboration) Collaborated with team members to deliver software components.
+- [ ] (Communication) Communicated effectively with immediate team members.
+- [ ] (Communication) Actively listened and demonstrated effective communication skills.
+- [ ] (Communication) Asked questions to clarify requirements and instructions.
+- [ ] (Communication) Engaged in team discussions and provided updates on progress.
+- [ ] (Communication) Provided clear and concise written documentation.
+- [ ] (Measurable) Contributed to at least XX pull requests with valuable and well-written contributions.
+- [ ] (Measurable) Completed at least YY pair programming sessions with more junior members.
 
 **Mid-level Software Engineer (L2 - IC2):**
-- [ ] Contributed to software development projects with some supervision.
-- [ ] Solved moderate problems and handled ambiguous situations with minimal guidance.
-- [ ] Communicated effectively with the broader team and engaged in code reviews.
-- [ ] Actively participated in team discussions and shared ideas and insights.
-- [ ] Presented technical concepts and solutions clearly and concisely.
-- [ ] Listened attentively and provided constructive feedback to peers.
-- [ ] Collaborated with cross-functional teams to deliver project milestones.
-- [ ] Demonstrated effective written and verbal communication skills.
-- [ ] Provided clear and concise documentation for code and project components.
+- [ ] (Collaboration) Collaborated with cross-functional teams to deliver project milestones.
+- [ ] (Communication) Communicated effectively with the broader team and engaged in code reviews.
+- [ ] (Communication) Actively participated in team discussions and shared ideas and insights.
+- [ ] (Communication) Presented technical concepts and solutions clearly and concisely.
+- [ ] (Communication) Listened attentively and provided constructive feedback to peers.
+- [ ] (Communication) Demonstrated effective written and verbal communication skills.
+- [ ] (Communication) Provided clear and concise documentation for code and project components.
+- [ ] (Measurable) Created and successfully merged at least XX pull requests without major corrections.
+- [ ] (Measurable) Developed automated tests for at least YY% of code written.
 
 **Senior Software Engineer (L3 - IC3):**
-- [ ] Led software development projects with minimal supervision.
-- [ ] Solved complex and ambiguous problems independently.
-- [ ] Communicated effectively with the team, stakeholders, and executives.
-- [ ] Presented technical solutions and recommendations clearly.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Collaborated effectively with cross-functional teams.
-- [ ] Provided constructive feedback and encouraged open communication.
-- [ ] Engaged in effective team communication and coordination.
-- [ ] Created comprehensive and well-structured documentation for projects.
+- [ ] (Collaboration) Collaborated effectively with cross-functional teams.
+- [ ] (Communication) Communicated effectively with the team, stakeholders, and executives.
+- [ ] (Communication) Presented technical solutions and recommendations clearly.
+- [ ] (Communication) Actively listened and demonstrated empathy in communication.
+- [ ] (Collaboration) Provided mentorship and guidance to junior members.
+- [ ] (Problem Solving) Solved complex and ambiguous problems independently.
+- [ ] (Communication) Created comprehensive and well-structured documentation for projects.
+- [ ] (Measurable) Successfully delivered at least XX% of assigned projects within deadlines.
+- [ ] (Measurable) Mentored at least ZZ junior members, providing guidance and support.
 
 **Staff Engineer (L4 - TL1):**
-- [ ] Made major technical decisions and influenced technical strategy.
-- [ ] Mentored and guided junior members of the team.
-- [ ] Led the design and implementation of major features or subsystems.
-- [ ] Handled moderately ambiguous problems and provided clarity to the team.
-- [ ] Communicated effectively and clearly with the team and stakeholders.
-- [ ] Presented technical concepts and ideas in a coherent manner.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Collaborated effectively with cross-functional teams.
-- [ ] Provided constructive feedback and encouraged open communication.
-- [ ] Influenced and negotiated technical solutions within the team.
-- [ ] Created comprehensive technical documentation and design specifications.
+- [ ] (Leadership) Mentored and guided junior members of the team.
+- [ ] (Problem Solving) Made major technical decisions and influenced technical strategy.
+- [ ] (Collaboration) Collaborated effectively with cross-functional teams.
+- [ ] (Communication) Communicated effectively and clearly with the team and stakeholders.
+- [ ] (Communication) Handled moderately ambiguous problems and provided clarity to the team.
+- [ ] (Communication) Presented technical concepts and ideas in a coherent manner.
+- [ ] (Communication) Created comprehensive technical documentation and design specifications.
+- [ ] (Measurable) Led the design and implementation of at least XX major features or subsystems.
+- [ ] (Measurable) Provided valuable guidance and reviews for at least YY pull requests.
 
 **Principal Engineer (L5 - TL2):**
-- [ ] Provided technical leadership across the organization.
-- [ ] Led complex projects and guided strategic problem-solving.
-- [ ] Communicated effectively with all levels in the organization.
-- [ ] Presented technical concepts and solutions with clarity and precision.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Influenced and guided technical decisions and direction.
-- [ ] Collaborated effectively with cross-functional teams and stakeholders.
-- [ ] Mentored and coached engineers, fostering growth and development.
-- [ ] Ensured effective and efficient communication within the team.
-- [ ] Created comprehensive technical documentation and architectural designs.
+- [ ] (Collaboration) Collaborated effectively with cross-functional teams and stakeholders.
+- [ ] (Communication) Communicated effectively with all levels in the organization.
+- [ ] (Communication) Actively listened and demonstrated empathy in communication.
+- [ ] (Communication) Created comprehensive communication materials and documentation.
+- [ ] (Communication) Ensured effective and efficient communication within the team.
+- [ ] (Leadership) Led complex projects and guided strategic problem-solving.
+- [ ] (Leadership) Mentored and coached engineers, fostering growth and development.
+- [ ] (Leadership) Provided technical leadership across the organization.
+- [ ] (Problem Solving) Provided technical leadership across the organization.
+- [ ] (Measurable) Conducted at least XX technical presentations or workshops for the engineering team.
 
 **Senior Engineering Manager (L5 - M2):**
-- [ ] Oversaw multiple engineering teams and drove the overall engineering strategy.
-- [ ] Ensured successful delivery of projects and achievement of engineering goals.
-- [ ] Communicated strategically with all levels in the organization and stakeholders.
-- [ ] Presented complex technical information to executives and non-technical stakeholders.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Mentored and guided engineering managers, fostering their leadership skills.
-- [ ] Collaborated with cross-functional stakeholders to align on project objectives.
-- [ ] Created clear and concise documentation for team and project management.
-- [ ] Ensured effective and efficient communication across engineering teams.
-- [ ] Facilitated communication and coordination between teams and departments.
+- [ ] (Collaboration) Collaborated with cross-functional stakeholders to align on project objectives.
+- [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
+- [ ] (Communication) Actively listened and demonstrated empathy in communication.
+- [ ] (Communication) Created clear and concise communication materials and documentation.
+- [ ] (Communication) Ensured effective and efficient communication across engineering teams.
+- [ ] (Leadership) Ensured successful delivery of projects and achievement of engineering goals.
+- [ ] (Leadership) Facilitated communication and coordination between teams and departments.
+- [ ] (Leadership) Mentored and guided engineering managers, fostering their leadership skills.
+- [ ] (Measurable) Successfully led the delivery of at least XX complex projects on time and within budget.
 
 **Director of Engineering (L6 - M3):**
-- [ ] Provided leadership across the engineering organization.
-- [ ] Set the strategic direction for multiple engineering teams.
-- [ ] Led complex and ambiguous initiatives and communicated strategically.
-- [ ] Presented technical concepts and solutions to executives and board members.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Guided resolution of complex technical challenges across the organization.
-- [ ] Collaborated effectively with cross-functional stakeholders and leaders.
-- [ ] Mentored and developed engineering managers and leaders.
-- [ ] Created clear and concise documentation for high-level technical discussions.
-- [ ] Ensured effective and efficient communication across the engineering organization.
+- [ ] (Collaboration) Collaborated effectively with cross-functional stakeholders and leaders.
+- [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
+- [ ] (Communication) Actively listened and demonstrated empathy in communication.
+- [ ] (Communication) Created clear and concise communication materials and documentation.
+- [ ] (Communication) Ensured effective and efficient communication across the engineering organization.
+- [ ] (Leadership) Guided the engineering strategy for the entire organization.
+- [ ] (Leadership) Led complex and ambiguous initiatives and communicated strategically.
+- [ ] (Leadership) Mentored and developed engineering managers and leaders.
+- [ ] (Problem Solving) Guided resolution of complex technical challenges across the organization.
+- [ ] (Measurable) Implemented processes that resulted in a XX% improvement in team productivity.
 
 **Vice President of Engineering (L7 - M4):**
-- [ ] Guided the engineering strategy for the entire organization.
-- [ ] Led the engineering team and made final decisions on the engineering direction.
-- [ ] Navigated complex and ambiguous strategic engineering situations.
-- [ ] Communicated strategically with all levels in the organization and stakeholders.
-- [ ] Presented technical concepts and solutions to executive leadership.
-- [ ] Actively listened and demonstrated empathy in communication.
-- [ ] Influenced and negotiated high-level technical decisions.
-- [ ] Collaborated effectively with cross-functional executives and leaders.
-- [ ] Created clear and concise documentation for strategic engineering discussions.
-- [ ] Ensured effective and efficient communication across the organization.
+- [ ] (Collaboration) Collaborated effectively with cross-functional executives and leaders.
+- [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
+- [ ] (Communication) Actively listened and demonstrated empathy in communication.
+- [ ] (Communication) Created clear and concise communication materials and documentation.
+- [ ] (Communication) Ensured effective and efficient communication across the organization.
+- [ ] (Leadership) Guided the engineering strategy for the entire organization.
+- [ ] (Leadership) Influenced and negotiated high-level technical decisions.
+- [ ] (Leadership) Led the engineering team and made final decisions on the engineering direction.
+- [ ] (Problem Solving) Navigated complex and ambiguous strategic engineering situations.
+- [ ] (Measurable) Increased the overall engineering team's efficiency by XX% through process improvements.
+
 
 
 </br>
