@@ -27,6 +27,7 @@
     - [(SWE: L5 - M2) Senior Engineering Manager](#senior-engineering-manager-swe-l5---m2)
     - [(SWE: L6 - M3) Director of Engineering](#director-of-engineering-swe-l6---m3)
     - [(SWE: L7 - M4) VP of Engineering](#vice-president-of-engineering-swe-l7---m4)
+    - [SWE Levels Comparison Table](#swe-levels-comparison-table)
 - [Product Management Career Levels](#product-management-career-levels)
     - [(PM: L1 - IC1) Junior Product Manager](#junior-product-manager-pm-l1---ic1)
     - [(PM: L2 - IC2) Mid-level Product Manager](#mid-level-product-manager-pm-l2---ic2)
@@ -34,6 +35,8 @@
     - [(PM: L4 - M1) Group Product Manager](#group-product-manager-pm-l4---m1)
     - [(PM: L5 - M2) Director of Product Management](#director-of-product-management-pm-l5---m2)
     - [(PM: L7 - M4) VP of Product Management](#vice-president-of-product-management-pm-l6---m3)
+    - [PM Levels Comparison Table](#pm-levels-comparison-table)
+- [References](#references)
 
 </br>
 
@@ -360,6 +363,21 @@ With a prolific career (over 20 years), the VP of Engineering guides the enginee
 
 </br>
 
+### SWE Levels Comparison Table
+
+[<- Index](#table-of-contents)
+
+Legend
+
+- *L* - Level
+- *IC* - Individual Contributor
+- *TL* - Technical Leadership
+- *M* - Management
+- *SWE* - Software Engineer
+
+</br>
+
+
 | Level | Code | Role                            | Leadership                                                                                            | Problem Solving                                                                                                 | Communication                                                                                                                                             | Technical Skills                                                                                                               | Experience Range              | Experience Description              |
 |-------|------|---------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------|
 | L1    | IC1  | Junior Software Engineer        | Learns from more experienced team members.                                                             | Solves straightforward problems with guidance.                                                                  | Communicates with immediate team members.                                                                                                                 | Basic understanding of software development principles.                                                                       | Up to 2 years                 | Limited experience                  |
@@ -378,6 +396,14 @@ With a prolific career (over 20 years), the VP of Engineering guides the enginee
 ## Product Management Career Levels
 
 [<- Index](#table-of-contents)
+
+Legend
+
+- *L* - Level
+- *IC* - Individual Contributor
+- *TL* - Technical Leadership
+- *M* - Management
+- *PM* - Product Manager
 
 ### Junior Product Manager (PM: L1 - IC1)
 
@@ -466,6 +492,20 @@ With a remarkable tenure (over 15 years), the VP PM guides the product strategy 
 
 </br>
 
+### PM Levels Comparison Table
+
+[<- Index](#table-of-contents)
+
+Legend
+
+- *L* - Level
+- *IC* - Individual Contributor
+- *TL* - Technical Leadership
+- *M* - Management
+- *PM* - Product Manager
+
+</br>
+
 | Level | Code | Role                           | Leadership                                                                                                                                                                                | Problem Solving                                                                                                                      | Communication                                                                                                                                                | Technical Skills                                                                                                       | Experience Range   | Experience Description        |
 |-------|------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------|
 | L1    | IC1  | Junior Product Manager         | Assists in defining product requirements, analyzing market trends, and coordinating with development teams. Handles straightforward product-related problems with guidance.                 | Solves straightforward problems with guidance.                                                                                         | Communicates with immediate team members.                                                                                                                     | Basic understanding of product management principles.                                                                  | Up to 2 years      | Limited experience            |
@@ -479,6 +519,8 @@ With a remarkable tenure (over 15 years), the VP PM guides the product strategy 
 </br>
 
 # References
+
+[<- Index](#table-of-contents)
 
 - Skelton, M. and Pais, M. (2019). Team Topologies: Organizing Business and Technology Teams for Fast Flow.
 - Kniberg, H., & Ivarsson, A. (2012). Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds.
