@@ -169,27 +169,6 @@ With a prolific career (over 20 years), the VP of Engineering guides the enginee
 | L7    | M4   | Vice President of Engineering    | Guides the engineering strategy for the entire organization. Leads the engineering team, makes final decisions on the overall engineering direction, and navigates complex and ambiguous strategic engineering situations. | Solves highly complex problems independently and guides strategic problem solving across the organization. | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives. | Comprehensive understanding of software development principles and ability to guide the adoption of new technologies across the organization. | Over 20 years                 | Prolific career                     |
 
 </br>
-
-### Requirements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </br>
 
 ## Product Management Levels
@@ -220,8 +199,38 @@ L6 (M3) - **Vice President of Product Management (VP PM)**: With a remarkable te
 </br>
 </br>
 
+# Topologies and Interactions
+
+## Topologies
+
+Describing types of teams according to "Team Topologies - Organizing business and technology teams for fast flow".
+
+### Stream-aligned
+This topology is designed for delivering and supporting specific products or services. Stream-aligned teams are cross-functional and autonomous, with end-to-end responsibility for a particular product or service. Interaction modes within a stream-aligned team include daily stand-ups, regular planning and review meetings, and continuous collaboration through shared tools and communication channels.
+
+### Enabling
+Enabling teams exist to empower and support stream-aligned teams. They provide specialized skills, platforms, tools, and other resources to facilitate the work of stream-aligned teams. The interaction mode for enabling teams involves collaborating closely with stream-aligned teams, offering expertise, guidance, and support as needed. This can be through workshops, knowledge-sharing sessions, and one-on-one interactions.
+
+### Complicated subsystem
+This topology focuses on managing complex subsystems that are used across multiple stream-aligned teams. Complicated subsystem teams develop and maintain subsystems that require deep expertise and attention to detail. Interaction modes within this topology involve close collaboration with stream-aligned teams to understand their needs, provide technical guidance, and ensure smooth integration of the subsystem. Regular meetings, architecture reviews, and technical workshops are common interaction modes.
+
+### Platform
+Platform teams provide shared platforms, tools, and services that enable multiple stream-aligned teams to deliver their products or services more effectively. The platform team builds and maintains the platform, ensuring its reliability, scalability, and usability. Interaction modes in this topology include regular meetings with the stream-aligned teams to gather feedback, understand their requirements, and collaborate on platform improvements. The platform team also provides documentation, training, and support to ensure the successful adoption and utilization of the platform.
+
+## Interaction Modes
+
+### Collaboration
+Collaboration is an interaction mode that emphasizes working together, sharing knowledge, and leveraging the expertise of different team members. It involves active communication, cooperation, and coordination among team members to achieve a common goal. Collaboration can take various forms, such as team meetings, brainstorming sessions, pair programming, code reviews, and cross-team workshops. The objective of collaboration is to foster creativity, innovation, and collective ownership of work, leading to better outcomes and faster delivery.
+
+### X as a Service
+The "X as a Service" interaction mode refers to providing specialized services, tools, or platforms to other teams within the organization. The "X" can represent various functions, such as infrastructure, security, testing, data, design, or any other shared capability. In this mode, teams that possess specialized knowledge or resources act as service providers to support the needs of other teams. They offer their expertise, tools, or platforms as self-service or managed services to enable other teams to focus on their core responsibilities. This interaction mode promotes autonomy, standardization, and reuse of services, leading to increased efficiency and faster delivery.
+
+### Enabling
+The enabling interaction mode focuses on providing support, guidance, and resources to empower other teams. Enabling teams exist to facilitate the work of other teams, removing obstacles and enhancing their capabilities. They may offer coaching, training, mentoring, or access to tools and resources. The enabling mode fosters a culture of learning, growth, and continuous improvement. Enabling teams collaborate closely with other teams, understanding their needs, and helping them overcome challenges. By enabling and empowering other teams, this mode promotes self-organization, autonomy, and overall team effectiveness.
+
 # References
 
+- Skelton, M. and Pais, M. (2019). Team Topologies: Organizing Business and Technology Teams for Fast Flow.
 - Kniberg, H., & Ivarsson, A. (2012). Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds.
 - Reilly, T. (2022). The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change.
 - Winters, T., Manshreck, T. and Wright, H. (2020). Software Engineering at Google: Lessons Learned from Programming over Time.
