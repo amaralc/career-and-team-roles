@@ -1,5 +1,23 @@
 # Career and Team Roles
 
+## Team Roles
+
+**Squad Lead**: Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
+
+**Tribe Lead**: Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
+
+**Product Manager**: Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
+
+**Engineering Manager**: Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
+
+**Chapter Lead**: Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
+
+**Tech Lead**: Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics. This is a mix of a technical and management role.
+
+**Guild Lead**: Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
+
+**Software Engineer**: Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
+
 ## Software Engineering Levels
 
 Legend
@@ -198,27 +216,6 @@ L6 (M3) - **Vice President of Product Management (VP PM)**: With a remarkable te
 | L4    | M1   | Group Product Manager (GPM)    | Leads a team of product managers, overseeing multiple product lines or a significant part of a major product. Drives strategic decisions, mentors junior members, and navigates ambiguity. | Solves complex problems independently and strategically guides product problem-solving across the organization.                      | Communicates strategically with all levels in the organization and stakeholders.                                                                             | Comprehensive understanding of product management principles and strong leadership skills.                               | 8-12 years         | Extensive experience           |
 | L5    | M2   | Director of Product Management | Provides leadership across the product organization. Sets strategic direction for multiple product lines, leads complex initiatives, and communicates strategically with all levels.     | Solves highly complex problems independently and guides strategic problem-solving across the organization.                          | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives.                              | Comprehensive understanding of product management principles, strong technical understanding.                          | Over 12 years      | Deep experience                |
 | L6    | M3   | Vice President of Product Mgmt | Guides the product strategy for the entire organization. Leads the product management team, makes final decisions on the product direction, and navigates complex strategic situations.   | Solves highly complex problems independently and guides strategic problem-solving across the organization.                          | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives.                              | Comprehensive understanding of product management principles, strong technical understanding.                          | Over 15 years      | Remarkable tenure              |
-
-
-</br>
-
-## Team Roles
-
-**Squad Lead**: Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
-
-**Tribe Lead**: Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
-
-**Product Manager**: Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
-
-**Engineering Manager**: Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
-
-**Chapter Lead**: Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
-
-**Tech Lead**: Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics. This is a mix of a technical and management role.
-
-**Guild Lead**: Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
-
-**Software Engineer**: Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
 
 </br>
 </br>
