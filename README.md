@@ -509,7 +509,7 @@ With a remarkable tenure (over 15 years), the VP PM guides the product strategy 
 - Software Engineer II in Redmond, Washington, United States | Software Engineering at Microsoft. (n.d.). Microsoft. Retrieved from https://careers.microsoft.com/professionals/us/en/job/1546455/Software-Engineer-II
 - Senior Software Engineer in Redmond, Washington, United States | Software Engineering at Microsoft. (n.d.). Microsoft. Retrieved from https://careers.microsoft.com/professionals/us/en/job/1550621/Senior-Software-Engineer
 - Principal Software Engineer in Redmond, Washington, United States | Software Engineering at Microsoft. (n.d.). Microsoft. Retrieved from https://careers.microsoft.com/professionals/us/en/job/1551153/Principal-Software-Engineer
-- Staff Product Manager, Technical - It Engineering (vaga exclusiva para Mulheres). (n.d.). Job Application for Staff Product Manager, Technical - It Engineering (Vaga Exclusiva Para Mulheres) at Nubank. Retrieved from https://boards.greenhouse.io/nubank/jobs/4914989
+- Job Application for Staff Product Manager, Technical - It Engineering (Vaga Exclusiva Para Mulheres) at Nubank. Retrieved from https://boards.greenhouse.io/nubank/jobs/4914989
 - Software Engineer. (n.d.). Job Application for Software Engineer at Nubank. Retrieved from https://boards.greenhouse.io/nubank/jobs/2569175
 - Tech Manager. (n.d.). Job Application for Tech Manager at Nubank. Retrieved from https://boards.greenhouse.io/nubank/jobs/4854006
 - Lead Software Engineer - Mexico. (n.d.). Job Application for Lead Software Engineer - Mexico at Nubank. Retrieved from https://boards.greenhouse.io/nubank/jobs/4555685
