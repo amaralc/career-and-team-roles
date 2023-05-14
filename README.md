@@ -13,8 +13,6 @@ Legend
 
 </br>
 
-L1 (IC1) - **Junior Software Engineer**:
-
 **Junior Software Engineer (L1 - IC1):** With limited experience (up to 2 years), assists in coding, testing, and stabilizing systems under supervision. Communicates with immediate team members and solves straightforward problems with guidance. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated with team members to deliver software components.
