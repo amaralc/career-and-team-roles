@@ -1,24 +1,201 @@
 # Career and Team Roles
 
-## Team Roles
 
-**Squad Lead**: Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
 
-**Tribe Lead**: Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
+# Table of Contents
 
-**Product Manager**: Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
+- [Topologies and Interactions](#team-topologies-and-interaction-modes)
+    - [Team Topologies](#team-topologies)
+    - [Team Interaction Modes](#team-interaction-modes)
+    - [Topologies and Interaction Study Cases](#topologies-and-interaction-study-cases)
+- [Team Roles](#team-roles)
+    - [Squad Lead](#squad-lead)
+    - [Tribe Lead](#tribe-lead)
+    - [Product Manager](#product-manager)
+    - [Engineering Manager](#engineering-manager)
+    - [Chapter Lead](#chapter-lead)
+    - [Tech Lead](#tech-lead)
+    - [Guild Lead](#guild-lead)
+    - [Software Engineer](#software-engineer)
+- [Software Engineering Career Levels](#software-engineering-career-levels)
+    - [(SWE: L1 - IC1) Junior Software Engineer](#junior-software-engineer-swe-l1---ic1)
+    - [(SWE: L2 - IC2) Mid-level Software Engineer](#mid-level-software-engineer-swe-l2---ic2)
+    - [(SWE: L3 - IC3) Senior Software Engineer](#senior-software-engineer-swe-l3---ic3)
+    - [(SWE: L4 - TL1) Staff Engineer](#staff-engineer-swe-l4---tl1)
+    - [(SWE: L5 - TL2) Principal Engineer](#principal-engineer-swe-l5---tl2)
+    - [(SWE: L4 - M1) Engineering Manager](#engineering-manager-swe-l4---m1)
+    - [(SWE: L5 - M2) Senior Engineering Manager](#senior-engineering-manager-swe-l5---m2)
+    - [(SWE: L6 - M3) Director of Engineering](#director-of-engineering-swe-l6---m3)
+    - [(SWE: L7 - M4) VP of Engineering](#vice-president-of-engineering-swe-l7---m4)
+- [Product Management Career Levels](#product-management-career-levels)
+    - [(PM: L1 - IC1) Junior Product Manager](#junior-product-manager-pm-l1---ic1)
+    - [(PM: L2 - IC2) Mid-level Product Manager](#mid-level-product-manager-pm-l2---ic2)
+    - [(PM: L3 - IC3) Senior Product Manager](#senior-product-manager-pm-l3---ic3)
+    - [(PM: L4 - M1) Group Product Manager](#group-product-manager-pm-l4---m1)
+    - [(PM: L5 - M2) Director of Product Management](#director-of-product-management-pm-l5---m2)
+    - [(PM: L7 - M4) VP of Product Management](#vice-president-of-product-management-pm-l6---m3)
 
-**Engineering Manager**: Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
+</br>
 
-**Chapter Lead**: Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
+Legend
 
-**Tech Lead**: Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics. This is a mix of a technical and management role.
+- *L* - Level
+- *IC* - Individual Contributor
+- *TL* - Technical Leadership
+- *M* - Management
+- *SWE* - Software Engineer
+- *PM* - Product Manager
 
-**Guild Lead**: Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
+</br>
 
-**Software Engineer**: Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
+# Team Topologies and Interaction Modes
 
-## Software Engineering Levels
+[<- Index](#table-of-contents)
+
+## Team Topologies
+
+[<- Index](#table-of-contents)
+
+Describing types of teams according to "Team Topologies - Organizing business and technology teams for fast flow".
+
+</br>
+<div align="center">
+    <div>
+        <img src="./references/team-topologies/team-topologies.webp" height="300em"/>
+        <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
+    </div>
+</div>
+</br>
+
+
+### Stream-aligned
+This topology is designed for delivering and supporting specific products or services. Stream-aligned teams are cross-functional and autonomous, with end-to-end responsibility for a particular product or service. Interaction modes within a stream-aligned team include daily stand-ups, regular planning and review meetings, and continuous collaboration through shared tools and communication channels.
+
+### Enabling
+Enabling teams exist to empower and support stream-aligned teams. They provide specialized skills, platforms, tools, and other resources to facilitate the work of stream-aligned teams. The interaction mode for enabling teams involves collaborating closely with stream-aligned teams, offering expertise, guidance, and support as needed. This can be through workshops, knowledge-sharing sessions, and one-on-one interactions.
+
+### Complicated subsystem
+This topology focuses on managing complex subsystems that are used across multiple stream-aligned teams. Complicated subsystem teams develop and maintain subsystems that require deep expertise and attention to detail. Interaction modes within this topology involve close collaboration with stream-aligned teams to understand their needs, provide technical guidance, and ensure smooth integration of the subsystem. Regular meetings, architecture reviews, and technical workshops are common interaction modes.
+
+### Platform
+Platform teams provide shared platforms, tools, and services that enable multiple stream-aligned teams to deliver their products or services more effectively. The platform team builds and maintains the platform, ensuring its reliability, scalability, and usability. Interaction modes in this topology include regular meetings with the stream-aligned teams to gather feedback, understand their requirements, and collaborate on platform improvements. The platform team also provides documentation, training, and support to ensure the successful adoption and utilization of the platform.
+
+## Team Interaction Modes
+
+[<- Index](#table-of-contents)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/practical-interaction-modes.webp" height="300em"/>
+    <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
+</div>
+</br>
+
+### Collaboration
+Collaboration is an interaction mode that emphasizes working together, sharing knowledge, and leveraging the expertise of different team members. It involves active communication, cooperation, and coordination among team members to achieve a common goal. Collaboration can take various forms, such as team meetings, brainstorming sessions, pair programming, code reviews, and cross-team workshops. The objective of collaboration is to foster creativity, innovation, and collective ownership of work, leading to better outcomes and faster delivery.
+
+### X as a Service
+The "X as a Service" interaction mode refers to providing specialized services, tools, or platforms to other teams within the organization. The "X" can represent various functions, such as infrastructure, security, testing, data, design, or any other shared capability. In this mode, teams that possess specialized knowledge or resources act as service providers to support the needs of other teams. They offer their expertise, tools, or platforms as self-service or managed services to enable other teams to focus on their core responsibilities. This interaction mode promotes autonomy, standardization, and reuse of services, leading to increased efficiency and faster delivery.
+
+### Enabling
+The enabling interaction mode focuses on providing support, guidance, and resources to empower other teams. Enabling teams exist to facilitate the work of other teams, removing obstacles and enhancing their capabilities. They may offer coaching, training, mentoring, or access to tools and resources. The enabling mode fosters a culture of learning, growth, and continuous improvement. Enabling teams collaborate closely with other teams, understanding their needs, and helping them overcome challenges. By enabling and empowering other teams, this mode promotes self-organization, autonomy, and overall team effectiveness.
+
+## Topologies and Interaction Study Cases
+
+[<- Index](#table-of-contents)
+
+### Data & AI team structure: Case studies (Heuvel, 2021)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/data-ai-team-structure.webp" height="600em"/>
+    <p>Source: (Heuvel, 2021).</p>
+</div>
+</br>
+
+### Team Topologies at PureGym - responding better to business needs with well-defined software teams (Kilmister and Allen, 2020)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/team-topologies-at-puregym.png" height="300em"/>
+    <p>Source: (Kilmister and Allen, 2020).</p>
+</div>
+</br>
+
+## Team Topologies and Wardley Maps (Swan, 2021)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/wardley-maps-and-team-topologies.jpeg" height="300em"/>
+    <p>Source: (Swan, 2021).</p>
+</div>
+</br>
+
+## Team Topologies at Docker (Morlhon, n.d.)
+
+</br>
+<div align="center">
+    <p>Docker Team Card</p>
+    <img src="./references/team-topologies/docker-team-card.webp" height="300em"/>
+    <p>Source: (Morlhon, n.d.).</p>
+</div>
+</br>
+
+</br>
+<div align="center">
+    <p>Docker Team Structure</p>
+    <img src="./references/team-topologies/docker-team-structure.webp"/>
+    <p>Source: (Morlhon, n.d.).</p>
+</div>
+</br>
+
+## Spotify's Agile Model (Kniberg and Ivarsson, 2012)
+
+</br>
+<div align="center">
+    <p>Guilds, Tribes, Chapters and Squads</p>
+    <img src="./references/spotify/spotify-model.webp" height="500em"/>
+    <p>Sources: (Kniberg and Ivarsson, 2012); (Hardy, 2020).</p>
+</div>
+</br>
+
+
+
+# Team Roles
+
+[<- Index](#table-of-contents)
+
+## Squad Lead
+Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
+
+## Tribe Lead
+Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
+
+## Product Manager
+Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
+
+## Engineering Manager
+Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
+
+## Chapter Lead
+Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
+
+## Tech Lead
+Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics. This is a mix of a technical and management role.
+
+## Guild Lead
+Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
+
+## Software Engineer
+Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
+
+</br>
+</br>
+</br>
+
+# Software Engineering Career Levels
+
+[<- Index](#table-of-contents)
 
 Legend
 
@@ -198,7 +375,9 @@ With a prolific career (over 20 years), the VP of Engineering guides the enginee
 </br>
 </br>
 
-## Product Management Levels
+## Product Management Career Levels
+
+[<- Index](#table-of-contents)
 
 ### Junior Product Manager (PM: L1 - IC1)
 
@@ -298,110 +477,6 @@ With a remarkable tenure (over 15 years), the VP PM guides the product strategy 
 
 </br>
 </br>
-
-# Topologies and Interactions
-
-## Topologies
-
-Describing types of teams according to "Team Topologies - Organizing business and technology teams for fast flow".
-
-</br>
-<div align="center">
-    <div>
-        <img src="./references/team-topologies/team-topologies.webp" height="300em"/>
-        <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
-    </div>
-</div>
-</br>
-
-
-### Stream-aligned
-This topology is designed for delivering and supporting specific products or services. Stream-aligned teams are cross-functional and autonomous, with end-to-end responsibility for a particular product or service. Interaction modes within a stream-aligned team include daily stand-ups, regular planning and review meetings, and continuous collaboration through shared tools and communication channels.
-
-### Enabling
-Enabling teams exist to empower and support stream-aligned teams. They provide specialized skills, platforms, tools, and other resources to facilitate the work of stream-aligned teams. The interaction mode for enabling teams involves collaborating closely with stream-aligned teams, offering expertise, guidance, and support as needed. This can be through workshops, knowledge-sharing sessions, and one-on-one interactions.
-
-### Complicated subsystem
-This topology focuses on managing complex subsystems that are used across multiple stream-aligned teams. Complicated subsystem teams develop and maintain subsystems that require deep expertise and attention to detail. Interaction modes within this topology involve close collaboration with stream-aligned teams to understand their needs, provide technical guidance, and ensure smooth integration of the subsystem. Regular meetings, architecture reviews, and technical workshops are common interaction modes.
-
-### Platform
-Platform teams provide shared platforms, tools, and services that enable multiple stream-aligned teams to deliver their products or services more effectively. The platform team builds and maintains the platform, ensuring its reliability, scalability, and usability. Interaction modes in this topology include regular meetings with the stream-aligned teams to gather feedback, understand their requirements, and collaborate on platform improvements. The platform team also provides documentation, training, and support to ensure the successful adoption and utilization of the platform.
-
-## Interaction Modes
-
-</br>
-<div align="center">
-    <img src="./references/team-topologies/practical-interaction-modes.webp" height="300em"/>
-    <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
-</div>
-</br>
-
-### Collaboration
-Collaboration is an interaction mode that emphasizes working together, sharing knowledge, and leveraging the expertise of different team members. It involves active communication, cooperation, and coordination among team members to achieve a common goal. Collaboration can take various forms, such as team meetings, brainstorming sessions, pair programming, code reviews, and cross-team workshops. The objective of collaboration is to foster creativity, innovation, and collective ownership of work, leading to better outcomes and faster delivery.
-
-### X as a Service
-The "X as a Service" interaction mode refers to providing specialized services, tools, or platforms to other teams within the organization. The "X" can represent various functions, such as infrastructure, security, testing, data, design, or any other shared capability. In this mode, teams that possess specialized knowledge or resources act as service providers to support the needs of other teams. They offer their expertise, tools, or platforms as self-service or managed services to enable other teams to focus on their core responsibilities. This interaction mode promotes autonomy, standardization, and reuse of services, leading to increased efficiency and faster delivery.
-
-### Enabling
-The enabling interaction mode focuses on providing support, guidance, and resources to empower other teams. Enabling teams exist to facilitate the work of other teams, removing obstacles and enhancing their capabilities. They may offer coaching, training, mentoring, or access to tools and resources. The enabling mode fosters a culture of learning, growth, and continuous improvement. Enabling teams collaborate closely with other teams, understanding their needs, and helping them overcome challenges. By enabling and empowering other teams, this mode promotes self-organization, autonomy, and overall team effectiveness.
-
-## Examples
-
-### Data & AI team structure: Case studies (Heuvel, 2021)
-
-</br>
-<div align="center">
-    <img src="./references/team-topologies/data-ai-team-structure.webp" height="600em"/>
-    <p>Source: (Heuvel, 2021).</p>
-</div>
-</br>
-
-### Team Topologies at PureGym - responding better to business needs with well-defined software teams (Kilmister and Allen, 2020)
-
-</br>
-<div align="center">
-    <img src="./references/team-topologies/team-topologies-at-puregym.png" height="300em"/>
-    <p>Source: (Kilmister and Allen, 2020).</p>
-</div>
-</br>
-
-## Team Topologies and Wardley Maps (Swan, 2021)
-
-</br>
-<div align="center">
-    <img src="./references/team-topologies/wardley-maps-and-team-topologies.jpeg" height="300em"/>
-    <p>Source: (Swan, 2021).</p>
-</div>
-</br>
-
-## Team Topologies at Docker (Morlhon, n.d.)
-
-</br>
-<div align="center">
-    <p>Docker Team Card</p>
-    <img src="./references/team-topologies/docker-team-card.webp" height="300em"/>
-    <p>Source: (Morlhon, n.d.).</p>
-</div>
-</br>
-
-</br>
-<div align="center">
-    <p>Docker Team Structure</p>
-    <img src="./references/team-topologies/docker-team-structure.webp"/>
-    <p>Source: (Morlhon, n.d.).</p>
-</div>
-</br>
-
-## Spotify's Agile Model (Kniberg and Ivarsson, 2012)
-
-</br>
-<div align="center">
-    <p>Guilds, Tribes, Chapters and Squads</p>
-    <img src="./references/spotify/spotify-model.webp" height="500em"/>
-    <p>Sources: (Kniberg and Ivarsson, 2012); (Hardy, 2020).</p>
-</div>
-</br>
-
 
 # References
 
