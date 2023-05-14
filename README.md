@@ -305,6 +305,16 @@ With a remarkable tenure (over 15 years), the VP PM guides the product strategy 
 
 Describing types of teams according to "Team Topologies - Organizing business and technology teams for fast flow".
 
+</br>
+<div align="center">
+    <div>
+        <img src="./references/team-topologies/team-topologies.webp"/>
+        <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
+    </div>
+</div>
+</br>
+
+
 ### Stream-aligned
 This topology is designed for delivering and supporting specific products or services. Stream-aligned teams are cross-functional and autonomous, with end-to-end responsibility for a particular product or service. Interaction modes within a stream-aligned team include daily stand-ups, regular planning and review meetings, and continuous collaboration through shared tools and communication channels.
 
@@ -318,6 +328,13 @@ This topology focuses on managing complex subsystems that are used across multip
 Platform teams provide shared platforms, tools, and services that enable multiple stream-aligned teams to deliver their products or services more effectively. The platform team builds and maintains the platform, ensuring its reliability, scalability, and usability. Interaction modes in this topology include regular meetings with the stream-aligned teams to gather feedback, understand their requirements, and collaborate on platform improvements. The platform team also provides documentation, training, and support to ensure the successful adoption and utilization of the platform.
 
 ## Interaction Modes
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/practical-interaction-modes.webp"/>
+    <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
+</div>
+</br>
 
 ### Collaboration
 Collaboration is an interaction mode that emphasizes working together, sharing knowledge, and leveraging the expertise of different team members. It involves active communication, cooperation, and coordination among team members to achieve a common goal. Collaboration can take various forms, such as team meetings, brainstorming sessions, pair programming, code reviews, and cross-team workshops. The objective of collaboration is to foster creativity, innovation, and collective ownership of work, leading to better outcomes and faster delivery.
@@ -334,6 +351,11 @@ The enabling interaction mode focuses on providing support, guidance, and resour
 - Kniberg, H., & Ivarsson, A. (2012). Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds.
 - Reilly, T. (2022). The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change.
 - Winters, T., Manshreck, T. and Wright, H. (2020). Software Engineering at Google: Lessons Learned from Programming over Time.
+- Morlhon, J. Building Stronger, Happier Engineering Teams with Team Topologies, (n.d.). Docker. Retrieved from https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/
+- Swan, C. (2021). Wardley Maps & Team Topologies. Retrieved from https://blog.thestateofme.com/2021/03/16/emissaries-from-the-future/7
+- Heuvel, A. (2021) Data & AI team structure: Case studies. Retrieved from https://godatadriven.com/blog/data-ai-team-structure-case-studies/
+- Kilmister, J., Allen R. (2020). Team Topologies at PureGym - responding better to business needs with well-defined software teams &mdash; Team Topologies. Team Topologies. Retrieved from https://teamtopologies.com/industry-examples/team-topologies-at-puregym-responding-better-to-business-needs-with-well-defined-software-teams
+- Franco, A. (2022, May 5). Team topology: 6"first principles” for product leaders, Medium. Retrieved from https://uxdesign.cc/team-topology-6-first-principles-for-product-leaders-9b0dd55408ce
 - 2023 Software Development Engineer Internship. (n.d.). Amazon.Jobs. Retrieved from https://www.amazon.jobs/en/jobs/2267885/2023-software-development-engineer-internship
 - Software Development Engineer, Project Kuiper. (n.d.). Amazon.Jobs. Retrieved from https://www.amazon.jobs/en/jobs/2353863/software-development-engineer-project-kuiperSoftware 
 - Dev Engineer II. (n.d.). Amazon.Jobs. Retrieved from https://www.amazon.jobs/en/jobs/2348928/software-dev-engineer-iiSenior
