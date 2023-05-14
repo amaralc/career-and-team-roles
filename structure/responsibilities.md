@@ -1,4 +1,6 @@
-# Software Engineering Levels
+# Roles and Responsibilities
+
+## Software Engineering Levels
 
 Legend
 
@@ -46,7 +48,7 @@ L7 (M4) - **Vice President of Engineering (M4)**: With a prolific career (over 2
 
 </br>
 
-# Product Management Levels
+## Product Management Levels
 
 L1 (IC1) - **Junior Product Manager**: An entry-level role with limited experience (up to 2 years). APMs assist in defining product requirements, analyzing market trends, and coordinating with development teams. They handle straightforward product-related problems with guidance. This is an individual contributor role.
 
@@ -62,7 +64,19 @@ L6 (M3) - **Vice President of Product Management (VP PM)**: With a remarkable te
 
 </br>
 
-# Team Roles
+| Level | Code | Role                           | Leadership                                                                                                                                                                                | Problem Solving                                                                                                                      | Communication                                                                                                                                                | Technical Skills                                                                                                       | Experience Range   | Experience Description        |
+|-------|------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------|
+| L1    | IC1  | Junior Product Manager         | Assists in defining product requirements, analyzing market trends, and coordinating with development teams. Handles straightforward product-related problems with guidance.                 | Solves straightforward problems with guidance.                                                                                         | Communicates with immediate team members.                                                                                                                     | Basic understanding of product management principles.                                                                  | Up to 2 years      | Limited experience            |
+| L2    | IC2  | Mid-level Product Manager      | Handles ambiguous situations, defines product scope and milestones, provides initial requirements, and makes decisions on user-visible behavior. Engages in customer and market research.    | Solves moderate problems with minimal guidance.                                                                                       | Communicates with the broader team and engages in cross-functional communication.                                                                                | Sound understanding of product management principles.                                                                 | 2-5 years          | Proven experience              |
+| L3    | IC3  | Senior Product Manager         | Independently handles complex and ambiguous product challenges. Leads strategic planning for products, collaborates closely with engineering and design teams, and communicates effectively. | Solves complex problems independently.                                                                                                | Communicates effectively with team, stakeholders, and executives.                                                                                             | Deep understanding of product management principles.                                                                   | 5-8 years          | Extensive experience           |
+| L4    | M1   | Group Product Manager (GPM)    | Leads a team of product managers, overseeing multiple product lines or a significant part of a major product. Drives strategic decisions, mentors junior members, and navigates ambiguity. | Solves complex problems independently and strategically guides product problem-solving across the organization.                      | Communicates strategically with all levels in the organization and stakeholders.                                                                             | Comprehensive understanding of product management principles and strong leadership skills.                               | 8-12 years         | Extensive experience           |
+| L5    | M2   | Director of Product Management | Provides leadership across the product organization. Sets strategic direction for multiple product lines, leads complex initiatives, and communicates strategically with all levels.     | Solves highly complex problems independently and guides strategic problem-solving across the organization.                          | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives.                              | Comprehensive understanding of product management principles, strong technical understanding.                          | Over 12 years      | Deep experience                |
+| L6    | M3   | Vice President of Product Mgmt | Guides the product strategy for the entire organization. Leads the product management team, makes final decisions on the product direction, and navigates complex strategic situations.   | Solves highly complex problems independently and guides strategic problem-solving across the organization.                          | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives.                              | Comprehensive understanding of product management principles, strong technical understanding.                          | Over 15 years      | Remarkable tenure              |
+
+
+</br>
+
+## Team Roles
 
 **Squad Lead**: Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
 
