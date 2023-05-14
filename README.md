@@ -45,6 +45,103 @@ L7 (M4) - **Vice President of Engineering (M4)**: With a prolific career (over 2
 | L6    | M3   | Director of Engineering          | Provides leadership across the engineering organization, sets strategic direction for multiple teams. | Solves highly complex problems independently and guides strategic problem solving across the organization. | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives.                                 | Comprehensive understanding of software development principles and ability to guide the adoption of new technologies across the organization. | Over 15 years                  | Impressive and extensive tenure      |
 | L7    | M4   | Vice President of Engineering    | Guides the engineering strategy for the entire organization. Leads the engineering team, makes final decisions on the overall engineering direction, and navigates complex and ambiguous strategic engineering situations. | Solves highly complex problems independently and guides strategic problem solving across the organization. | Communicates strategically with all levels in the organization, stakeholders, and executives to align with strategic objectives. | Comprehensive understanding of software development principles and ability to guide the adoption of new technologies across the organization. | Over 20 years                 | Prolific career                     |
 
+</br>
+
+### Requirements
+
+**Junior Software Engineer (L1 - IC1):**
+- [ ] Assisted in coding, testing, and stabilizing systems under supervision.
+- [ ] Communicated effectively with immediate team members.
+- [ ] Solved straightforward problems with guidance.
+- [ ] Actively listened and demonstrated effective communication skills.
+- [ ] Asked questions to clarify requirements and instructions.
+- [ ] Engaged in team discussions and provided updates on progress.
+- [ ] Provided clear and concise written documentation.
+- [ ] Collaborated with team members to deliver software components.
+
+**Mid-level Software Engineer (L2 - IC2):**
+- [ ] Contributed to software development projects with some supervision.
+- [ ] Solved moderate problems and handled ambiguous situations with minimal guidance.
+- [ ] Communicated effectively with the broader team and engaged in code reviews.
+- [ ] Actively participated in team discussions and shared ideas and insights.
+- [ ] Presented technical concepts and solutions clearly and concisely.
+- [ ] Listened attentively and provided constructive feedback to peers.
+- [ ] Collaborated with cross-functional teams to deliver project milestones.
+- [ ] Demonstrated effective written and verbal communication skills.
+- [ ] Provided clear and concise documentation for code and project components.
+
+**Senior Software Engineer (L3 - IC3):**
+- [ ] Led software development projects with minimal supervision.
+- [ ] Solved complex and ambiguous problems independently.
+- [ ] Communicated effectively with the team, stakeholders, and executives.
+- [ ] Presented technical solutions and recommendations clearly.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Collaborated effectively with cross-functional teams.
+- [ ] Provided constructive feedback and encouraged open communication.
+- [ ] Engaged in effective team communication and coordination.
+- [ ] Created comprehensive and well-structured documentation for projects.
+
+**Staff Engineer (L4 - TL1):**
+- [ ] Made major technical decisions and influenced technical strategy.
+- [ ] Mentored and guided junior members of the team.
+- [ ] Led the design and implementation of major features or subsystems.
+- [ ] Handled moderately ambiguous problems and provided clarity to the team.
+- [ ] Communicated effectively and clearly with the team and stakeholders.
+- [ ] Presented technical concepts and ideas in a coherent manner.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Collaborated effectively with cross-functional teams.
+- [ ] Provided constructive feedback and encouraged open communication.
+- [ ] Influenced and negotiated technical solutions within the team.
+- [ ] Created comprehensive technical documentation and design specifications.
+
+**Principal Engineer (L5 - TL2):**
+- [ ] Provided technical leadership across the organization.
+- [ ] Led complex projects and guided strategic problem-solving.
+- [ ] Communicated effectively with all levels in the organization.
+- [ ] Presented technical concepts and solutions with clarity and precision.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Influenced and guided technical decisions and direction.
+- [ ] Collaborated effectively with cross-functional teams and stakeholders.
+- [ ] Mentored and coached engineers, fostering growth and development.
+- [ ] Ensured effective and efficient communication within the team.
+- [ ] Created comprehensive technical documentation and architectural designs.
+
+**Senior Engineering Manager (L5 - M2):**
+- [ ] Oversaw multiple engineering teams and drove the overall engineering strategy.
+- [ ] Ensured successful delivery of projects and achievement of engineering goals.
+- [ ] Communicated strategically with all levels in the organization and stakeholders.
+- [ ] Presented complex technical information to executives and non-technical stakeholders.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Mentored and guided engineering managers, fostering their leadership skills.
+- [ ] Collaborated with cross-functional stakeholders to align on project objectives.
+- [ ] Created clear and concise documentation for team and project management.
+- [ ] Ensured effective and efficient communication across engineering teams.
+- [ ] Facilitated communication and coordination between teams and departments.
+
+**Director of Engineering (L6 - M3):**
+- [ ] Provided leadership across the engineering organization.
+- [ ] Set the strategic direction for multiple engineering teams.
+- [ ] Led complex and ambiguous initiatives and communicated strategically.
+- [ ] Presented technical concepts and solutions to executives and board members.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Guided resolution of complex technical challenges across the organization.
+- [ ] Collaborated effectively with cross-functional stakeholders and leaders.
+- [ ] Mentored and developed engineering managers and leaders.
+- [ ] Created clear and concise documentation for high-level technical discussions.
+- [ ] Ensured effective and efficient communication across the engineering organization.
+
+**Vice President of Engineering (L7 - M4):**
+- [ ] Guided the engineering strategy for the entire organization.
+- [ ] Led the engineering team and made final decisions on the engineering direction.
+- [ ] Navigated complex and ambiguous strategic engineering situations.
+- [ ] Communicated strategically with all levels in the organization and stakeholders.
+- [ ] Presented technical concepts and solutions to executive leadership.
+- [ ] Actively listened and demonstrated empathy in communication.
+- [ ] Influenced and negotiated high-level technical decisions.
+- [ ] Collaborated effectively with cross-functional executives and leaders.
+- [ ] Created clear and concise documentation for strategic engineering discussions.
+- [ ] Ensured effective and efficient communication across the organization.
+
 
 </br>
 
