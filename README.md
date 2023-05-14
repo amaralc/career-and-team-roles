@@ -308,7 +308,7 @@ Describing types of teams according to "Team Topologies - Organizing business an
 </br>
 <div align="center">
     <div>
-        <img src="./references/team-topologies/team-topologies.webp"/>
+        <img src="./references/team-topologies/team-topologies.webp" height="300em"/>
         <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
     </div>
 </div>
@@ -331,7 +331,7 @@ Platform teams provide shared platforms, tools, and services that enable multipl
 
 </br>
 <div align="center">
-    <img src="./references/team-topologies/practical-interaction-modes.webp"/>
+    <img src="./references/team-topologies/practical-interaction-modes.webp" height="300em"/>
     <p>Sources: (Skelton and Pais, 2019); (Franco, 2022).</p>
 </div>
 </br>
@@ -345,10 +345,69 @@ The "X as a Service" interaction mode refers to providing specialized services, 
 ### Enabling
 The enabling interaction mode focuses on providing support, guidance, and resources to empower other teams. Enabling teams exist to facilitate the work of other teams, removing obstacles and enhancing their capabilities. They may offer coaching, training, mentoring, or access to tools and resources. The enabling mode fosters a culture of learning, growth, and continuous improvement. Enabling teams collaborate closely with other teams, understanding their needs, and helping them overcome challenges. By enabling and empowering other teams, this mode promotes self-organization, autonomy, and overall team effectiveness.
 
+## Examples
+
+### Data & AI team structure: Case studies (Heuvel, 2021)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/data-ai-team-structure.webp" height="600em"/>
+    <p>Source: (Heuvel, 2021).</p>
+</div>
+</br>
+
+### Team Topologies at PureGym - responding better to business needs with well-defined software teams (Kilmister and Allen, 2020)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/team-topologies-at-puregym.png" height="300em"/>
+    <p>Source: (Kilmister and Allen, 2020).</p>
+</div>
+</br>
+
+## Team Topologies and Wardley Maps (Swan, 2021)
+
+</br>
+<div align="center">
+    <img src="./references/team-topologies/wardley-maps-and-team-topologies.jpeg" height="300em"/>
+    <p>Source: (Swan, 2021).</p>
+</div>
+</br>
+
+## Team Topologies at Docker (Morlhon, n.d.)
+
+</br>
+<div align="center">
+    <p>Docker Team Card</p>
+    <img src="./references/team-topologies/docker-team-card.webp" height="300em"/>
+    <p>Source: (Morlhon, n.d.).</p>
+</div>
+</br>
+
+</br>
+<div align="center">
+    <p>Docker Team Structure</p>
+    <img src="./references/team-topologies/docker-team-structure.webp"/>
+    <p>Source: (Morlhon, n.d.).</p>
+</div>
+</br>
+
+## Spotify's Agile Model (Kniberg and Ivarsson, 2012)
+
+</br>
+<div align="center">
+    <p>Guilds, Tribes, Chapters and Squads</p>
+    <img src="./references/spotify/spotify-model.webp" height="500em"/>
+    <p>Sources: (Kniberg and Ivarsson, 2012); (Hardy, 2020).</p>
+</div>
+</br>
+
+
 # References
 
 - Skelton, M. and Pais, M. (2019). Team Topologies: Organizing Business and Technology Teams for Fast Flow.
 - Kniberg, H., & Ivarsson, A. (2012). Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds.
+- Hardy, A.-C. (2020, March 22). Agile Team Organisation: Squads, Chapters, Tribes and Guilds, Medium. Retrieved from https://achardypm.medium.com/agile-team-organisation-squads-chapters-tribes-and-guilds-80932ace0fdc
 - Reilly, T. (2022). The Staff Engineer’s Path: A Guide for Individual Contributors Navigating Growth and Change.
 - Winters, T., Manshreck, T. and Wright, H. (2020). Software Engineering at Google: Lessons Learned from Programming over Time.
 - Morlhon, J. Building Stronger, Happier Engineering Teams with Team Topologies, (n.d.). Docker. Retrieved from https://www.docker.com/blog/building-stronger-happier-engineering-teams-with-team-topologies/
