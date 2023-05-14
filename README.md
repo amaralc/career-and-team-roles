@@ -13,7 +13,8 @@ Legend
 
 </br>
 
-**Junior Software Engineer (L1 - IC1):** With limited experience (up to 2 years), assists in coding, testing, and stabilizing systems under supervision. Communicates with immediate team members and solves straightforward problems with guidance. This is an individual contributor role.
+### Junior Software Engineer (L1 - IC1)
+With limited experience (up to 2 years), assists in coding, testing, and stabilizing systems under supervision. Communicates with immediate team members and solves straightforward problems with guidance. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated with team members to deliver software components.
 - [ ] (Communication) Communicated effectively with immediate team members.
@@ -24,7 +25,8 @@ Legend
 - [ ] (Measurable) Contributed to at least XX pull requests with valuable and well-written contributions.
 - [ ] (Measurable) Completed at least YY pair programming sessions with more junior members.
 
-**Mid-level Software Engineer (L2 - IC2):** With a certain level of proven experience (2-5 years), contributes to software development, solves moderate problems, and starts handling ambiguous situations with minimal guidance. Communicates with the broader team and engages in code reviews and documentation. This is an individual contributor role.
+### Mid-level Software Engineer (L2 - IC2)
+With a certain level of proven experience (2-5 years), contributes to software development, solves moderate problems, and starts handling ambiguous situations with minimal guidance. Communicates with the broader team and engages in code reviews and documentation. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated with cross-functional teams to deliver project milestones.
 - [ ] (Communication) Communicated effectively with the broader team and engaged in code reviews.
@@ -36,7 +38,8 @@ Legend
 - [ ] (Measurable) Created and successfully merged at least XX pull requests without major corrections.
 - [ ] (Measurable) Developed automated tests for at least YY% of code written.
 
-**Senior Software Engineer (L3 - IC3):** With an established professional track (5-8 years of experience), leads projects, solves complex and ambiguous problems independently. Communicates with team, stakeholders, and executives. Proficient in designing, testing, and deploying complex systems. This is an individual contributor role.
+### Senior Software Engineer (L3 - IC3)
+With an established professional track (5-8 years of experience), leads projects, solves complex and ambiguous problems independently. Communicates with team, stakeholders, and executives. Proficient in designing, testing, and deploying complex systems. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated effectively with cross-functional teams.
 - [ ] (Communication) Communicated effectively with the team, stakeholders, and executives.
@@ -49,7 +52,8 @@ Legend
 - [ ] (Measurable) Mentored at least ZZ junior members, providing guidance and support.
 
 
-**Staff Engineer (L4 - TL1):** With a decade or more of deep experience (8-12 years), drives major technical decisions, mentors junior members, and navigates through ambiguity to influence technical strategy. Leads design and implementation of major features or subsystems. This is an individual contributor role.
+### Staff Engineer (L4 - TL1)
+With a decade or more of deep experience (8-12 years), drives major technical decisions, mentors junior members, and navigates through ambiguity to influence technical strategy. Leads design and implementation of major features or subsystems. This is an individual contributor role.
 
 - [ ] (Leadership) Mentored and guided junior members of the team.
 - [ ] (Problem Solving) Made major technical decisions and influenced technical strategy.
@@ -61,7 +65,8 @@ Legend
 - [ ] (Measurable) Led the design and implementation of at least XX major features or subsystems.
 - [ ] (Measurable) Provided valuable guidance and reviews for at least YY pull requests.
 
-**Engineering Manager (L4 - M1):** With a substantial tenure in the field (8-12 years), Engineering Managers are responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
+### Engineering Manager (L4 - M1)
+With a substantial tenure in the field (8-12 years), Engineering Managers are responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
 
 - [ ] (Leadership) Mentored and guided junior members of the team.
 - [ ] (Problem Solving) Made major technical decisions and influenced technical strategy.
@@ -74,7 +79,8 @@ Legend
 - [ ] (Measurable) Conducted regular performance evaluations and career development discussions with team members.
 - [ ] (Measurable) Collaborated with product managers to set scope and milestones for at least YY projects.
 
-**Principal Engineer (L5 - TL2):** With a remarkable tenure (over 15 years), provides technical leadership across the organization. Leads complex projects, sets the technical direction, and clarifies ambiguous situations to guide strategic problem-solving. Communicates with all levels in the organization. This is an individual contributor role.
+### Principal Engineer (L5 - TL2)
+With a remarkable tenure (over 15 years), provides technical leadership across the organization. Leads complex projects, sets the technical direction, and clarifies ambiguous situations to guide strategic problem-solving. Communicates with all levels in the organization. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated effectively with cross-functional teams and stakeholders.
 - [ ] (Communication) Communicated effectively with all levels in the organization.
@@ -87,7 +93,8 @@ Legend
 - [ ] (Problem Solving) Provided technical leadership across the organization.
 - [ ] (Measurable) Conducted at least XX technical presentations or workshops for the engineering team.
 
-**Senior Engineering Manager (L5 - M2):** With significant experience and expertise (over 15 years), Senior Engineering Managers oversee multiple engineering teams, drive the overall engineering strategy, and ensure successful delivery of projects. They mentor and guide engineering managers, collaborate with cross-functional stakeholders, and contribute to high-level technical decision-making. This is a senior management role.
+### Senior Engineering Manager (L5 - M2)
+With significant experience and expertise (over 15 years), Senior Engineering Managers oversee multiple engineering teams, drive the overall engineering strategy, and ensure successful delivery of projects. They mentor and guide engineering managers, collaborate with cross-functional stakeholders, and contribute to high-level technical decision-making. This is a senior management role.
 
 - [ ] (Collaboration) Collaborated with cross-functional stakeholders to align on project objectives.
 - [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
@@ -99,7 +106,9 @@ Legend
 - [ ] (Leadership) Mentored and guided engineering managers, fostering their leadership skills.
 - [ ] (Measurable) Successfully led the delivery of at least XX complex projects on time and within budget.
 
-**Director of Engineering (L6 - M3):** With an impressive and extensive tenure (over 15 years), Directors of Engineering provide leadership across the engineering organization. They set the strategic direction for multiple engineering teams, lead complex and ambiguous initiatives, and communicate strategically with all levels in the organization. This is a management role.
+
+### Director of Engineering (L6 - M3)
+With an impressive and extensive tenure (over 15 years), Directors of Engineering provide leadership across the engineering organization. They set the strategic direction for multiple engineering teams, lead complex and ambiguous initiatives, and communicate strategically with all levels in the organization. This is a management role.
 
 - [ ] (Collaboration) Collaborated effectively with cross-functional stakeholders and leaders.
 - [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
@@ -112,7 +121,8 @@ Legend
 - [ ] (Problem Solving) Guided resolution of complex technical challenges across the organization.
 - [ ] (Measurable) Implemented processes that resulted in a XX% improvement in team productivity.
 
-**Vice President of Engineering (L7 - M4):** With a prolific career (over 20 years), the VP of Engineering guides the engineering strategy for the entire organization. They lead the engineering team, make final decisions on the overall engineering direction, and navigate complex and ambiguous strategic engineering situations. This is a senior management role.
+### Vice President of Engineering (L7 - M4)
+With a prolific career (over 20 years), the VP of Engineering guides the engineering strategy for the entire organization. They lead the engineering team, make final decisions on the overall engineering direction, and navigate complex and ambiguous strategic engineering situations. This is a senior management role.
 
 - [ ] (Collaboration) Collaborated effectively with cross-functional executives and leaders.
 - [ ] (Communication) Communicated strategically with all levels in the organization and stakeholders.
@@ -124,6 +134,7 @@ Legend
 - [ ] (Leadership) Led the engineering team and made final decisions on the engineering direction.
 - [ ] (Problem Solving) Navigated complex and ambiguous strategic engineering situations.
 - [ ] (Measurable) Increased the overall engineering team's efficiency by XX% through process improvements.
+
 
 </br>
 
