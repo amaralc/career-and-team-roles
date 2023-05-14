@@ -1,6 +1,15 @@
 # Career and Team Roles
 
+Keep in mind:
 
+- *L* - Level
+- *IC* - Individual Contributor
+- *TL* - Technical Leadership
+- *M* - Management
+- *SWE* - Software Engineer
+- *PM* - Product Manager
+
+</br>
 
 # Table of Contents
 
