@@ -266,6 +266,55 @@ With an established professional track (5-8 years of experience), leads projects
 - [ ] (Learning) Actively kept up with new technologies and industry trends.
 - [ ] (Technical Skills) Demonstrated proficiency in designing, testing, and deploying complex systems.
 
+### ANALISTA DE DADOS JÚNIOR (DA: L1 - IC1) 
+ref: Manual de cargos dyx
+
+Desenvolver e implementar análises de dados, geração de relatórios e outras estratégias que otimizem a eficiência e a qualidade das informações disponibilizadas a clientes internos e externos.
+
+- [ ] Desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
+- [ ] Testar os sistemas de tecnologia de dados, garantindo sua qualidade;
+- [ ] Extrair e transformar dados de bancos de dados e logs de sistema para criação de relatórios de indicadores e bases de dados;
+- [ ] Analisar resultados dos relatórios de indicadores;
+- [ ] Identificar pontos de melhoria nos sistemas existentes com base em resultados de análise;
+- [ ] Seguir planejamento para desenvolvimento de algoritmos de automação;
+- [ ] Preparar apresentações, inclusive gráficas, sobre os resultados obtidos;
+- [ ] Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
+
+### ANALISTA DE DADOS PLENO (DA: L2 - IC2) 
+ref: Manual de cargos dyx
+
+Responsável por pesquisar, dclientes internos e externos
+
+- [ ] Concepção e desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
+- [ ] Levantamento e validação de requisitos de desenvolvimento de tecnologia de dados
+- [ ] Construir entendimento sobre dados a partir de análises exploratórias;
+- [ ] Pesquisar, definir, implementar e monitorar sistemas de tecnologia de dados aplicáveis aos problemas propostos;
+- [ ] Extrair e transformar dados de bancos de dados e logs de sistema para criação de relatórios de indicadores, dashboards e bases de dados;
+- [ ] Analisar resultados dos relatórios de indicadores;
+- [ ] Testar os sistemas de tecnologia de dados, garantindo sua qualidade.
+- [ ] Identificar pontos de melhoria nos sistemas existentes;
+- [ ] Preparar apresentações, inclusive gráficas, sobre os produtos desenvolvidos e resultados obtidos;
+- [ ] Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
+
+### ANALISTA DE DADOS SÊNIOR (DA: L3 - IC3)
+
+- [ ]  Pesquisar, projetar; prover orientação técnica ao time de Analistas de Dados e ao Coordenador de Projetos.
+- [ ]  Concepção e desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
+- [ ]  Garantir direcionamento técnico ao longo de todo o ciclo de desenvolvimento de tecnologia de dados sob a definição das prioridades e prazos estabelecidos;
+- [ ]  Realizar alinhamentos com os Especialistas para construir entendimento de negócio;
+- [ ]  Construir entendimento sobre dados a partir de análises exploratórias;
+- [ ]  Pesquisar, definir e implementar metodologias da tecnologia de dados aplicáveis aos problemas propostos e a partir dos conhecimentos estabelecidos;
+- [ ]  Implementar sistemas de monitoramento dos sistemas de tecnologia de dados e garantir a sua disponibilidade;
+- [ ]  Realizar revisão do desempenho dos modelos com os Especialistas, mapeando e implementando os ajustes necessários;
+- [ ]  Realizar revisão técnica dos projetos de tecnologia de dados desenvolvidos pelo time de Analistas de Dados;
+- [ ]  Mentorar o uso dos ativos de tecnologia da informação de membros da equipe com menor experiência;
+- [ ]  Identificar pontos de melhoria nos sistemas existentes;
+- [ ]  Preparar apresentações, inclusive gráficas, sobre os produtos desenvolvidos e resultados obtidos;
+- [ ]  Representar o time de Analistas de Dados em reuniões internas e externas sobre os produtos de tecnologia de dados;
+- [ ]  Dar suporte técnico às equipes de desenvolvimento para integração entre os sistemas de tecnologia de dados e sistemas de informação;
+- [ ]  Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
+
+
 ### Staff Engineer (SWE: L4 - TL1)
 
 With a decade or more of deep experience (8-12 years), drives major technical decisions, mentors junior members, and navigates through ambiguity to influence technical strategy. Leads design and implementation of major features or subsystems. Displays leadership skills and contributes to the technical growth of the team. This is an individual contributor role.
