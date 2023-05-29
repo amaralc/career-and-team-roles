@@ -531,6 +531,7 @@ Legend
 
 [<- Index](#table-of-contents)
 
+- Kiessling, C. and Fabry, G. (2021, March 15). What is communicative competence and how can it be acquired?, PubMed Central (PMC). Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7994879/
 - Skelton, M. and Pais, M. (2019). Team Topologies: Organizing Business and Technology Teams for Fast Flow.
 - Kniberg, H., & Ivarsson, A. (2012). Scaling Agile @ Spotify with Tribes, Squads, Chapters & Guilds.
 - Hardy, A.-C. (2020, March 22). Agile Team Organisation: Squads, Chapters, Tribes and Guilds, Medium. Retrieved from https://achardypm.medium.com/agile-team-organisation-squads-chapters-tribes-and-guilds-80932ace0fdc
