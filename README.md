@@ -173,33 +173,41 @@ The enabling interaction mode focuses on providing support, guidance, and resour
 
 
 
-# Team Roles
+# Roles
 
 [<- Index](#table-of-contents)
 
 ## Squad Lead
-Manages squad health and performance, recruits team members, sets milestones, and clarifies ambiguities. Ensures alignment with organizational goals.
+Manages squad health and performance, assisting the engineering manager in recruiting team members, setting milestones, and clarifying ambiguities. Ensures alignment with organizational goals in the squad domain.
 
 ## Tribe Lead
-Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation.
+Oversees multiple squads or a tribe, sets strategic direction, ensures cohesion among squads, and fosters a culture of collaboration and innovation. This is an individual contributor role.
 
 ## Product Manager
-Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. Balances Technical Program Manager and Product Manager roles.
+Deciphers customer needs, sets product scope, provides requirements, makes final user-facing decisions, and clarifies ambiguous product needs. They also set scope and milestones in collaboration with the Engineering Manager. This is an individual contributor role.
 
 ## Engineering Manager
-Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role.
+Responsible for recruiting new team members, ensuring team health, managing team members' performance and growth. They also set scope and milestones in collaboration with the Product Manager. This is a management role. 
 
 ## Chapter Lead
-Leads a chapter, or a group of individuals with similar skills or roles within different squads. Mentors members, guides professional growth, and maintains a shared culture and best practices.
+Leads a chapter, or a group of individuals with similar skills or roles within different squads within a Tribe. Mentors members, guides professional growth, and maintains a shared culture and best practices.
 
 ## Tech Lead
-Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics. This is a mix of a technical and management role.
+Responsible for making final decisions on the technical approach of projects, designing high-level architecture, and supporting the engineering team in coding, testing, and system operations. They also mentor and coach team members on technical topics.
 
 ## Guild Lead
 Leads a guild, a group of people across the organization with shared interests or expertise. Facilitates knowledge sharing, promotes best practices, and encourages cross-team collaboration.
 
+## Product Operations Analyst
+
+TODO
+
 ## Software Engineer
-Codes, tests, deploys, and monitors systems with TL support. Collaborates on software component design and development.
+Codes, tests, deploys, monitors and maintains systems with technical leader support. Collaborates on software component design and development. 
+
+## Data Analyst
+
+TODO
 
 </br>
 </br>
@@ -221,7 +229,7 @@ Legend
 </br>
 
 ### Junior Software Engineer (SWE: L1 - IC1)
-With limited experience (up to 2 years), assists in coding, testing, and stabilizing systems under supervision. Communicates with immediate team members and solves straightforward problems with guidance. Should display a willingness to learn and grow professionally. This is an individual contributor role.
+With limited experience (~ up to 2 years), assists in coding, testing, and stabilizing systems under supervision. Communicates with immediate team members and solves straightforward problems with guidance. Should display a willingness to learn and grow professionally. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated with team members to deliver software components.
 - [ ] (Communication) Communicated effectively with immediate team members.
@@ -229,30 +237,31 @@ With limited experience (up to 2 years), assists in coding, testing, and stabili
 - [ ] (Communication) Asked questions to clarify requirements and instructions.
 - [ ] (Communication) Engaged in team discussions and provided updates on progress.
 - [ ] (Communication) Provided clear and concise written documentation.
+- [ ] (Testing) Developed automated tests for the code written with guidance.
 - [ ] (Problem Solving) Solved straightforward problems with guidance.
-- [ ] (Measurable) Contributed to at least 10 pull requests each month with valuable and well-written contributions.
+- [ ] (Problem Solving) Contributed with pull requests each month with valuable and well-written contributions.
 - [ ] (Learning) Demonstrated ongoing learning and development by acquiring new technical skills.
 - [ ] (Technical Skills) Demonstrated basic understanding of software development principles.
 
 ### Mid-level Software Engineer (SWE: L2 - IC2)
-With a certain level of proven experience (2-5 years), contributes to software development, solves moderate problems, and starts handling ambiguous situations with minimal guidance. Communicates with the broader team and engages in code reviews and documentation. This role also includes mentorship of junior engineers and a commitment to continuous learning. This is an individual contributor role.
+With a certain level of proven experience (~ 2 to 5 years), contributes to software development, solves moderate problems, and starts handling ambiguous situations with minimal guidance. Communicates with the broader team and engages in code reviews and documentation. This role also includes mentorship of junior engineers and a commitment to continuous learning. Should display a willingness to learn and grow professionally. Should display a willingness to learn and grow professionally. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated with cross-functional teams to deliver project milestones.
-- [ ] (Communication) Communicated effectively with the broader team and engaged in code reviews.
+- [ ] (Communication) Communicated effectively and engaged in code reviews.
 - [ ] (Communication) Actively participated in team discussions and shared ideas and insights.
 - [ ] (Communication) Presented technical concepts and solutions clearly and concisely.
 - [ ] (Communication) Listened attentively and provided constructive feedback to peers.
 - [ ] (Communication) Provided clear and concise documentation for code and project components.
 - [ ] (Problem Solving) Solved ambiguous problems with minimal guidance.
-- [ ] (Measurable) Created and successfully merged at least 10 pull requests each month without major corrections.
-- [ ] (Measurable) Developed automated tests for at least 80% of code written.
+- [ ] (Measurable) Created and successfully merged pull requests each month generally without major corrections.
+- [ ] (Testing) Developed automated tests for the code written.
 - [ ] (Mentorship) Provided guidance and support to junior engineers.
 - [ ] (Learning) Demonstrated ongoing learning and development by keeping up with new technologies and best practices.
 - [ ] (Technical Skills) Possessed a sound understanding of software development principles.
 
 ### Senior Software Engineer (SWE: L3 - IC3)
 
-With an established professional track (5-8 years of experience), leads projects, solves complex and ambiguous problems independently. Communicates with team, stakeholders, and executives. Proficient in designing, testing, and deploying complex systems. Provides mentorship and guidance to more junior team members. This is an individual contributor role.
+With an established professional track (~ 5-8 years of experience), leads projects, solves complex and ambiguous problems independently. Communicates with team, stakeholders, and executives. Proficient in designing, testing, and deploying complex systems. Provides mentorship and guidance to more junior team members. Must display a willingness to learn and grow professionally. This is an individual contributor role.
 
 - [ ] (Collaboration) Collaborated effectively with cross-functional teams.
 - [ ] (Communication) Communicated effectively with the team, stakeholders, and executives.
@@ -266,58 +275,9 @@ With an established professional track (5-8 years of experience), leads projects
 - [ ] (Learning) Actively kept up with new technologies and industry trends.
 - [ ] (Technical Skills) Demonstrated proficiency in designing, testing, and deploying complex systems.
 
-### ANALISTA DE DADOS JÚNIOR (DA: L1 - IC1) 
-ref: Manual de cargos dyx
-
-Desenvolver e implementar análises de dados, geração de relatórios e outras estratégias que otimizem a eficiência e a qualidade das informações disponibilizadas a clientes internos e externos.
-
-- [ ] Desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
-- [ ] Testar os sistemas de tecnologia de dados, garantindo sua qualidade;
-- [ ] Extrair e transformar dados de bancos de dados e logs de sistema para criação de relatórios de indicadores e bases de dados;
-- [ ] Analisar resultados dos relatórios de indicadores;
-- [ ] Identificar pontos de melhoria nos sistemas existentes com base em resultados de análise;
-- [ ] Seguir planejamento para desenvolvimento de algoritmos de automação;
-- [ ] Preparar apresentações, inclusive gráficas, sobre os resultados obtidos;
-- [ ] Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
-
-### ANALISTA DE DADOS PLENO (DA: L2 - IC2) 
-ref: Manual de cargos dyx
-
-Responsável por pesquisar, dclientes internos e externos
-
-- [ ] Concepção e desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
-- [ ] Levantamento e validação de requisitos de desenvolvimento de tecnologia de dados
-- [ ] Construir entendimento sobre dados a partir de análises exploratórias;
-- [ ] Pesquisar, definir, implementar e monitorar sistemas de tecnologia de dados aplicáveis aos problemas propostos;
-- [ ] Extrair e transformar dados de bancos de dados e logs de sistema para criação de relatórios de indicadores, dashboards e bases de dados;
-- [ ] Analisar resultados dos relatórios de indicadores;
-- [ ] Testar os sistemas de tecnologia de dados, garantindo sua qualidade.
-- [ ] Identificar pontos de melhoria nos sistemas existentes;
-- [ ] Preparar apresentações, inclusive gráficas, sobre os produtos desenvolvidos e resultados obtidos;
-- [ ] Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
-
-### ANALISTA DE DADOS SÊNIOR (DA: L3 - IC3)
-
-- [ ]  Pesquisar, projetar; prover orientação técnica ao time de Analistas de Dados e ao Coordenador de Projetos.
-- [ ]  Concepção e desenvolvimento de tecnologia de dados para monitoramento e controle da saúde de ativos industriais;
-- [ ]  Garantir direcionamento técnico ao longo de todo o ciclo de desenvolvimento de tecnologia de dados sob a definição das prioridades e prazos estabelecidos;
-- [ ]  Realizar alinhamentos com os Especialistas para construir entendimento de negócio;
-- [ ]  Construir entendimento sobre dados a partir de análises exploratórias;
-- [ ]  Pesquisar, definir e implementar metodologias da tecnologia de dados aplicáveis aos problemas propostos e a partir dos conhecimentos estabelecidos;
-- [ ]  Implementar sistemas de monitoramento dos sistemas de tecnologia de dados e garantir a sua disponibilidade;
-- [ ]  Realizar revisão do desempenho dos modelos com os Especialistas, mapeando e implementando os ajustes necessários;
-- [ ]  Realizar revisão técnica dos projetos de tecnologia de dados desenvolvidos pelo time de Analistas de Dados;
-- [ ]  Mentorar o uso dos ativos de tecnologia da informação de membros da equipe com menor experiência;
-- [ ]  Identificar pontos de melhoria nos sistemas existentes;
-- [ ]  Preparar apresentações, inclusive gráficas, sobre os produtos desenvolvidos e resultados obtidos;
-- [ ]  Representar o time de Analistas de Dados em reuniões internas e externas sobre os produtos de tecnologia de dados;
-- [ ]  Dar suporte técnico às equipes de desenvolvimento para integração entre os sistemas de tecnologia de dados e sistemas de informação;
-- [ ]  Contribuir e disseminar práticas de segurança de informação e privacidade de dados confidenciais e restritos, no que diz respeito às rotinas do departamento e empresa.
-
-
 ### Staff Engineer (SWE: L4 - TL1)
 
-With a decade or more of deep experience (8-12 years), drives major technical decisions, mentors junior members, and navigates through ambiguity to influence technical strategy. Leads design and implementation of major features or subsystems. Displays leadership skills and contributes to the technical growth of the team. This is an individual contributor role.
+With an established professional experience (~ 8-12 years), drives major technical decisions, mentors junior members, and navigates through ambiguity to influence technical strategy. Leads design and implementation of major features or subsystems. Displays leadership skills and contributes to the technical growth of the team. This is an individual contributor role.
 
 - [ ] (Leadership) Mentored and guided junior members of the team.
 - [ ] (Problem Solving) Made major technical decisions and influenced technical strategy.
